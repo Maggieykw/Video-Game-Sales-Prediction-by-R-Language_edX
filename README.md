@@ -1,2 +1,2 @@
 # edX_Video-Game-Sales-with-Ratings (Prediction)
-## Please refer to Video-Game-Sales.pdf
+## For details, please refer to the file called "Video-Game-Sales.pdf"
